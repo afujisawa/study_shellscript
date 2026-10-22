@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # check.sh: runs every project check and prints a summary.
 
 set -u
